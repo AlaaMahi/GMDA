@@ -13,7 +13,7 @@ Several strategies can be developed to deal with distance concentration phenomen
 
 `Report.ipynb:` going through two tasks showcasing the importance of persistance diagrams to classify low energy conformations and measure the 'distance' between them.
 
-`Topo.ipynb:` data exploration, introducing the Kabsch algorithm to introduce a geometrical notion of __distance__ between conformations and 2D/3D projections using t-sne to motivate the intuition behind this analysis.
+`Topology.ipynb:` data exploration, introducing the Kabsch algorithm to introduce a geometrical notion of __distance__ between conformations and 2D/3D projections using t-sne to motivate the intuition behind this analysis.
 
 ## - Persistance diagram example
 ![Persistance diagram example](https://github.com/AlaaMahi/GMDA/blob/master/Persistance.jpeg "Persistance diagram example")
