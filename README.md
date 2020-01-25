@@ -19,7 +19,8 @@ Several strategies can be developed to deal with distance concentration phenomen
 ![Persistance diagram example](https://github.com/AlaaMahi/GMDA/blob/master/Persistance.jpeg "Persistance diagram example")
 
 # Metrics:
-## Root-mean-square-deviaton : \n
-In bioinformatics, the root-mean-square deviation of atomic positions (or simply root-mean-square deviation, RMSD) is the measure of the average distance between the atoms (usually the backbone atoms) of superimposed proteins. Note that RMSD calculation can be applied to other, non-protein molecules, such as small organic molecules. In the study of globular protein conformations, one customarily measures the similarity in three-dimensional structure by the RMSD of the Cα atomic coordinates after optimal rigid body superposition. \n
-## Kabsch algorithm :\n
+## Root-mean-square-deviaton :
+In bioinformatics, the root-mean-square deviation of atomic positions (or simply root-mean-square deviation, RMSD) is the measure of the average distance between the atoms (usually the backbone atoms) of superimposed proteins. Note that RMSD calculation can be applied to other, non-protein molecules, such as small organic molecules. In the study of globular protein conformations, one customarily measures the similarity in three-dimensional structure by the RMSD of the Cα atomic coordinates after optimal rigid body superposition.
+
+## Kabsch algorithm :
 The Kabsch algorithm, named after Wolfgang Kabsch, is a method for calculating the optimal rotation matrix that minimizes the RMSD (root mean squared deviation) between two paired sets of points. It is useful in graphics, cheminformatics to compare molecular structures, and also bioinformatics for comparing protein structures (in particular, see root-mean-square deviation (bioinformatics)). The algorithm only computes the rotation matrix, but it also requires the computation of a translation vector. When both the translation and rotation are actually performed, the algorithm is sometimes called partial Procrustes superimposition.
