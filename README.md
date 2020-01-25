@@ -1,7 +1,7 @@
 # GMDA: Foundations of Geometric Methods in Data Analysis
-### Supervisors: 
-#### * [Frédéric Cazals, Inria ABS](https://team.inria.fr/abs/team-members/homepage-frederic-cazals/)
-#### * [Fred Chazal, Inria DataShape](https://geometrica.saclay.inria.fr/team/Fred.Chazal/)
+### Supervisors:
+#### - [Frédéric Cazals, Inria ABS](https://team.inria.fr/abs/team-members/homepage-frederic-cazals/)
+#### - [Fred Chazal, Inria DataShape](https://geometrica.saclay.inria.fr/team/Fred.Chazal/)
 
 # Project: Circumventing distance concentration phenomena
 
