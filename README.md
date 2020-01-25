@@ -14,4 +14,4 @@ Several strategies can be developed to deal with distance concentration phenomen
 
 `Topo.ipynb:` data exploration, introducing the Kabsch algorithm to introduce a geometrical notion of __distance__ between conformations and 2D/3D projections using t-sne to motivate the intuition behind this analysis.
 
-![Persistance diagram example][persistance.jpeg]
+![Persistance diagram example][Persistance.jpeg]
