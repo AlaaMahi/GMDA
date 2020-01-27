@@ -15,8 +15,8 @@ Several strategies can be developed to deal with distance concentration phenomen
 
 `Topology.ipynb:` data exploration, introducing the Kabsch algorithm to introduce a geometrical notion of __distance__ between conformations and 2D/3D projections using t-sne to motivate the intuition behind this analysis.
 
-## - Persistance diagram example
-![Persistance diagram example](https://github.com/AlaaMahi/GMDA/blob/master/Persistance.jpeg "Persistance diagram example")
+## - Persistence diagram example
+![Persistence diagram example](https://github.com/AlaaMahi/GMDA/blob/master/Persistance.jpeg "Persistence diagram example")
 
 # Metrics:
 ## Root-mean-square-deviaton :
